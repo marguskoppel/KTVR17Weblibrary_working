@@ -18,6 +18,7 @@
             <input type="password" name="password"><br>
             <br>
             <input type="submit" value="Login">
-        </form><br>
+        </form><br><br>
+        <a href="newReader">Register</a>
     </body>
 </html>

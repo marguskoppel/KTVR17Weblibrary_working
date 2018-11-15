@@ -12,6 +12,8 @@
         <h2>Navigation</h2>
         ${info}<br>
         <hr>
+        <a href="showLogin">Login</a><br>
+        <a href="logout">Logout</a><br>
         <a href="newBook">Add book</a><br>
         <a href="newReader">Add reader</a><br>
         <a href="showBooks">List of books</a><br>
@@ -21,8 +23,7 @@
         <br><br>
         <hr>
         <p><b>For admin:</b></p>
-        <a href="newRole">New role</a>
-        <br>
+        
         <a href="editUserRoles">Roles assignment for users</a>
         <br><br>
         <hr>
